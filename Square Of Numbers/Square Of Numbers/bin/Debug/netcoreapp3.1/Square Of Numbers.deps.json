@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Square Of Numbers/1.0.0": {
+        "runtime": {
+          "Square Of Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Square Of Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

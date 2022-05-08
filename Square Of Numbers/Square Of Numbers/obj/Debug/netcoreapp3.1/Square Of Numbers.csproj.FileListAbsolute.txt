@@ -1,0 +1,14 @@
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.exe
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.deps.json
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.runtimeconfig.json
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.runtimeconfig.dev.json
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.dll
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\bin\Debug\netcoreapp3.1\Square Of Numbers.pdb
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.csproj.AssemblyReference.cache
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.AssemblyInfoInputs.cache
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.AssemblyInfo.cs
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.dll
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.pdb
+A:\ProjectForC#\Square Of Numbers\Square Of Numbers\obj\Debug\netcoreapp3.1\Square Of Numbers.genruntimeconfig.cache
